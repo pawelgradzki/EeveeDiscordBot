@@ -1,6 +1,6 @@
 # Eevee
-<img src="img/eevee.png" alt="Eevee" height="500" width="500">
 This is the simple Discord bot written in Python 3.5 with discord.py library.
+<img src="img/eevee.png" alt="Eevee" height="500" width="500">
 
 <h2>Requirements:</h2>
 Python 3.5 - https://www.python.org/downloads/. <br/>
