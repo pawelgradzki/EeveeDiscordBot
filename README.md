@@ -8,9 +8,3 @@ Python 3.5 - https://www.python.org/downloads/. <br/>
 Open and Edit: 'config.ini' in config folder.
 If config file does not exist run config_file_create.py in "config" folder. 
 
-<h2>Example Commands:</h2>
-<code><prefix>ping</code>
-<code><prefix>echo <text></code>
-<code><prefix>kick <username></code>
-<code><prefix>ban <username></code>
-
