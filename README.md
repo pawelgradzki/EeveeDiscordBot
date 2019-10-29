@@ -1,5 +1,5 @@
 # DiscordBot.py
-<img src="img/eevee.png" alt="Eevee" height="42" width="42">
+<img src="img/eevee.png" alt="Eevee" height="500" width="500">
 This is the simple Discord bot written in Python 3.5 with discord.py library.
 
 <h2>Requirements:</h2>
