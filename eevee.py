@@ -56,7 +56,7 @@ except Exception as e:
     time.sleep(5)
     sys.exit()
 
-players = {}
+
 
 @client.event
 async def on_ready():
